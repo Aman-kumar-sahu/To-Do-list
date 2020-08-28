@@ -1,0 +1,22 @@
+body{
+	background: yellow;
+}
+.square{
+	height: 61.6%;
+	width: 25%;
+	background:white;
+	margin:125px auto;
+
+}
+#first{
+	background: purple;
+	color:white;
+}
+#input{
+	border:none;
+	background: none;
+	width: 100%;
+}
+.plus{
+	font-weight: 800;
+}
